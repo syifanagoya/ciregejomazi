@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://ciregejomazi.pages.dev/sitemap.xml
